@@ -1,5 +1,5 @@
 ---
-title: 你好世界1
+title: 你好世界
 tags: php
 categories: 笔记
 description: 你好世界
