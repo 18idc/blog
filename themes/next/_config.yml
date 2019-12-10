@@ -96,7 +96,7 @@ footer:
     version: false
   # -------------------------------------------------------------
   # Any custom text can be defined here.
-  custom_text: <a rel="external nofollow" target="_blank" href="http://www.miitbeian.gov.cn">赣ICP备18008561号</a>
+  custom_text: <a rel="external nofollow" target="_blank" href="http://www.beian.miit.gov.cn">赣ICP备18008561号</a>
 
 # ---------------------------------------------------------------
 # SEO Settings
@@ -312,9 +312,9 @@ codeblock:
   #description: ex. subscribe to my blog by scanning my public wechat account
 
 # Reward
-reward_comment: 坚持原创技术分享，您的支持将鼓励我继续创作！
-wechatpay: /images/wechatpay.png
-alipay: /images/alipay.jpg
+#reward_comment: 坚持原创技术分享，您的支持将鼓励我继续创作！
+#wechatpay: /images/wechatpay.png
+#alipay: /images/alipay.jpg
 #bitcoin: /images/bitcoin.png
 
 # Related popular posts
