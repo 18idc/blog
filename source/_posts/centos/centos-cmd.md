@@ -1,6 +1,6 @@
 ---
-title: centos常用命令
-tags: centos
+title: CentOS 常用命令
+tags: CentOS
 categories: 笔记
 date: 2018-8-4 02:06:18
 copyright: ture

@@ -2,7 +2,7 @@ title: ' CentOS7/8 安装 MySQL 5.7/8.0 二进制包/yum/源码/docker 等多钟
 author: q18idc.com
 categories: 笔记
 date: 2022-05-29 16:24:59
-tags: MySQL
+tags: [MySQL,CentOS]
 copyright: ture
 sitemap: true
 ---

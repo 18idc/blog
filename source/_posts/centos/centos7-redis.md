@@ -1,6 +1,6 @@
 ---
 title: CentOS7安装Redis6.0.6
-tags: centos
+tags: CentOS
 categories: 笔记
 date: 2020-08-01 09:51:40
 copyright: ture
