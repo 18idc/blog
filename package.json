@@ -5,6 +5,10 @@
   "hexo": {
     "version": "6.2.0"
   },
+  "scripts": {
+    "server": "hexo server",
+    "build": "hexo clean && hexo generate"
+  },
   "dependencies": {
     "@waline/hexo-next": "^3.0.1",
     "hexo": "^6.2.0",
