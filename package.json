@@ -10,7 +10,9 @@
     "build": "hexo clean && hexo generate"
   },
   "dependencies": {
+    "@next-theme/plugins": "^8.19.2",
     "@waline/hexo-next": "^3.0.1",
+    "disqusjs": "^3.0.3-canary.1",
     "hexo": "^6.2.0",
     "hexo-admin-qiniu": "^2.2.0",
     "hexo-blog-encrypt": "^3.1.6",
